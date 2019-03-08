@@ -12,6 +12,9 @@ msgstr ""
 msgid "Let’s make the web multilingual."
 msgstr "Machen wir das Internet mehrsprachig."
 
+msgid "Let’s make the web multilingual."
+msgstr "Not really."
+
 msgid "We connect developers and translators around the globe "
 "on Lingohub for a fantastic localization experience."
 msgstr "Wir verbinden Entwickler mit Übersetzern weltweit "
@@ -19,6 +22,9 @@ msgstr "Wir verbinden Entwickler mit Übersetzern weltweit "
 
 msgid "Welcome back, %1$s! Your last visit was on %2$s"
 msgstr "Willkommen zurück, %1$s! Dein letzter Besuch war am %2$s"
+
+msgid "Hello there!"
+msgstr "Hello there, general Kenobi."
 
 msgid "%d page read."
 msgid_plural "%d pages read."
