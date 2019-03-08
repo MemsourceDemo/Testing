@@ -8,9 +8,9 @@
     <string name="off">Disconnected</string>
     <string name="paused">Paused</string>
     
-    <string name="homepage">HOme</string>
-    <string name="off">Powered down</string>
-    <string name="paused">On hold</string>
+    <string name="homepage">Home Page</string>
+    <string name="off">Down</string>
+    <string name="paused">Waiting</string>
 
     <string name="doh">DOH</string>
     <string name="dot">DOT</string>
