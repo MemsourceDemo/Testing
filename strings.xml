@@ -7,6 +7,10 @@
     <string name="connected">Connected</string>
     <string name="off">Disconnected</string>
     <string name="paused">Paused</string>
+    
+    <string name="homepage">HOme</string>
+    <string name="off">Powered down</string>
+    <string name="paused">On hold</string>
 
     <string name="doh">DOH</string>
     <string name="dot">DOT</string>
